@@ -1,4 +1,4 @@
-/* square of a natural number with addition 
+/* square of a natural number with addition in python*/
 N = int(input())
 sum=0
 s=0
