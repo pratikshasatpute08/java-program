@@ -1,0 +1,9 @@
+/* square of a natural number with addition 
+N = int(input())
+sum=0
+s=0
+for i in range(N+1):
+    s=i+N
+    k=s*s
+    sum=sum+(i*i)
+print(k-sum)
